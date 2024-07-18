@@ -1,0 +1,4 @@
+hello
+cook
+omelette
+bye
